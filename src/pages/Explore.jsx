@@ -12,7 +12,7 @@ const Explore = () => {
           </p>
         </header>
 
-        <main>
+        <main className='exploreMain'>
           <Slider/> 
           <p className="exploreCategoryHeading">
               Categories 
